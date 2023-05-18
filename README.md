@@ -28,4 +28,4 @@ Fork the ``master`` branch and follow the [Jekyll Installation Documentation](ht
 
 ## License
 
-GNU General Public License v3.0
+GNNU General Public License v3.0
