@@ -10,7 +10,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Faraz Moradi # add your name
-author-img: <img src="david-freeman.jpg" alt="Author Image" style="width: 200px; height: 200px;"> # add your photo
+author-img: david-freeman.jpg # add your photo
 about-author: I am a  Machine Learning Engineer and Computational Neuroscientist with a deep interest in understanding the complexities of the human brain and unraveling its neural circuits. # add description
 social-twitter:  moradi_faraz # add your Twitter handle
 social-github: farazmoradi # add your Github handle
