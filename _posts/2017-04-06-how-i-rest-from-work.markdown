@@ -13,7 +13,7 @@ Welcome to my website! I am thrilled to share with you my ongoing exploration an
 </div>
 
 
-### CCSPNet, A Compact Subject-Independent Motor Imagery Framework <a href="https://github.com/Singular-Brain/CCSPNet" style="font-size: 20px;">(Code)</a>
+### CCSPNet, A Compact Subject-Independent Motor Imagery Framework <a href="https://github.com/Singular-Brain/CCSPNet" style="font-size: 20px;">(Code)</a> <a href="https://www.sciencedirect.com/science/article/abs/pii/S105120042200433X" style="font-size: 20px;">(Paper)</a>
 
 
 
@@ -29,7 +29,7 @@ A conventional brain-computer interface (BCI) requires a complete data gathering
 </figure>
 
 
-### Early Electrophysiological Aberrations in the Hippocampus of the TgF344-AD Rat Model as a Potential Biomarker for Alzheimer’s Disease Prognosis <a href="https://github.com/farazmoradi/AD-project" style="font-size: 20px;">(Code)</a>
+### Early Electrophysiological Aberrations in the Hippocampus of the TgF344-AD Rat Model as a Potential Biomarker for Alzheimer’s Disease Prognosis <a href="https://github.com/farazmoradi/AD-project" style="font-size: 20px;">(Code)</a> <a href="https://www.biorxiv.org/content/10.1101/2022.07.01.498373v1.abstract" style="font-size: 20px;">(Paper)</a>
 
 
 <div style="text-align: justify;">
