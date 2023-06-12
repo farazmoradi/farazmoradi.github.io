@@ -26,7 +26,7 @@ Cronut lumbersexual fingerstache asymmetrical, single-origin coffee roof party u
 ## A Protocol for Isolating Neural Activity of Neurons and Analyzing Their Behavior in a Pattern Separation Task (Master Thesis)
 
 
-{{site.baseurl}}/assets/img/Cell_stat.png
+{{site.baseurl}}/assets/img/Cell_Stat.png
 
 * Hexagon shoreditch beard
 * Intelligentsia narwhal austin
