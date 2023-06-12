@@ -3,7 +3,7 @@ layout: post
 title: Publications
 date: Last Update March 2023
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: CCSP_model.png # Add image post (optional)
+img: systemneurosci.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
