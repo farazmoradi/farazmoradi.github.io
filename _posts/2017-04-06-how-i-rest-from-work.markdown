@@ -8,11 +8,6 @@ fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
 
-<figure align="center">
-  <img src="/assets/img/systemneurosci.png" alt="Alt Text" width="600" height="450">
-
-</figure>
-
 <div style="text-align: justify;">
 Welcome to my website! I am thrilled to share with you my ongoing exploration and research at the exciting intersection of neuroscience and machine learning. As a passionate enthusiast in both fields, I am constantly delving into the fascinating world of understanding the human brain and harnessing the power of cutting-edge technologies. Through my work, I aim to uncover the mysteries of the brain and develop innovative solutions that leverage machine learning algorithms to enhance our understanding of cognitive processes, brain disorders, and human behavior. Join me on this captivating journey as we explore the realms of neuroscience and machine learning, pushing the boundaries of knowledge and paving the way for groundbreaking advancements in these captivating fields.
 </div>
