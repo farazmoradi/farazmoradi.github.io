@@ -31,16 +31,13 @@ By following this methodology, the study aimed to accurately classify ECG signal
 
 
 <div style="display: flex;">
-  <video width="50%" controls>
-    <source src="/assets/img/IMG_6683.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <iframe width="50%" height="315" src="https://www.youtube.com/embed/QfiI5bEK1nM" frameborder="0" allowfullscreen></iframe>
   
-  <video width="50%" controls>
-    <source src="/assets/img/bandicam%202021-03-08%2012-03-24-985.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <iframe width="50%" height="315" src="https://www.youtube.com/embed/33UrbxL0jDs" frameborder="0" allowfullscreen></iframe>
 </div>
+
+
+
 
 
 
