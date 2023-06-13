@@ -9,6 +9,8 @@ tags: [Programming, Learn] # add tag
 
 ### Arrhythmia Detection on ECG signals using Deep CNNs
 
+<div style="text-align: justify;">
+
 The methodology for classifying ECG signals in this study involved the following steps:
 
 1. Data Acquisition and Selection: ECG signals were obtained from the MIT-BIH arrhythmia database. Five types of ECG signals were selected, each with a sampling rate of 125 Hz. A segment of 1.496 seconds was chosen from each signal for classification, resulting in a total of 87554 training and 21892 test samples.
@@ -23,10 +25,36 @@ The methodology for classifying ECG signals in this study involved the following
 
 By following this methodology, the study aimed to accurately classify ECG signals into different arrhythmia types using the deep learning approach of the 2D-CNN model.
 
+</div>
+
+
 
 
 
 ### Actively movement tracking of animals in the maze using DeepLabCut and OpenCV package <a href="https://github.com/Singular-Brain/CCSPNet" style="font-size: 20px;">(Code)</a>
+
+<div style="text-align: justify;">
+
+In this project, we utilized computer vision techniques and machine learning algorithms to track mice in a linear environment. The goal was to accurately track the movement and behavior of the mice to gain insights into their locomotion patterns and interactions.
+
+
+
+We employed the following steps to track the mice:
+
+1. Data Collection: High-resolution video footage of mice moving in a linear environment was captured. The videos were recorded using a suitable camera setup to ensure clear visibility of the mice.
+
+2. Preprocessing: The video footage was preprocessed to enhance the quality and optimize it for tracking. This involved techniques such as denoising, contrast adjustment, and frame resizing.
+
+3. Mouse Detection: We used OpenCV, a popular computer vision library, to detect and locate the mice within each frame of the video. Various algorithms were tested, including Haar cascades and HOG (Histogram of Oriented Gradients), to identify the mice accurately.
+
+4. Tracking: To track the mice across frames, we employed DeepLabCut Pro, a state-of-the-art deep learning-based pose estimation tool. The tool utilizes convolutional neural networks (CNNs) to estimate the mouse's pose and track its movements robustly.
+
+5. Algorithm Selection: We experimented with different tracking algorithms, including CSRT (Channel and Spatial Reliability Tracking), to find the most effective approach for our specific scenario. We evaluated factors such as tracking accuracy, speed, and robustness to occlusions or lighting variations.
+
+6. Post-processing and Analysis: Once the tracking was complete, we analyzed the data to extract meaningful insights about the mice's behavior. This included measuring parameters like velocity, acceleration, distance traveled, and interaction patterns between mice.
+
+
+</div>
 
 
 
@@ -36,6 +64,9 @@ By following this methodology, the study aimed to accurately classify ECG signal
   <iframe width="50%" height="315" src="https://www.youtube.com/embed/33UrbxL0jDs" frameborder="0" allowfullscreen></iframe>
 </div>
 
+<figure align="center">
+  <img src="/assets/img/tracking.jpg" alt="Alt Text" width="500" height="400">
+</figure>
 
 
 
