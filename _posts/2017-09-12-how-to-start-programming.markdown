@@ -65,7 +65,7 @@ We employed the following steps to track the mice:
 </div>
 
 <figure align="center">
-  <img src="/assets/img/tracking.jpg" alt="Alt Text" width="500" height="400">
+  <img src="/assets/img/tracking.jpg" alt="Alt Text" width="550" height="400">
 </figure>
 
 
