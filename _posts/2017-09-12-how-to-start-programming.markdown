@@ -28,10 +28,20 @@ By following this methodology, the study aimed to accurately classify ECG signal
 
 ### Actively movement tracking of animals in the maze using DeepLabCut and OpenCV package <a href="https://github.com/Singular-Brain/CCSPNet" style="font-size: 20px;">(Code)</a>
 
-<video width="320" height="240" controls>
-  <source src="/assets/img/bandicam%202021-03-08%2012-03-24-985.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+<div style="display: flex;">
+  <video width="50%" controls>
+    <source src="/assets/img/IMG_6683.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  
+  <video width="50%" controls>
+    <source src="/assets/img/bandicam%202021-03-08%2012-03-24-985.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 
 
 
